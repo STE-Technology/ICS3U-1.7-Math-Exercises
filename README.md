@@ -8,13 +8,13 @@ Write a solution using Python to each of the following math problems. For each s
 - User-friendly input prompts.
 
 ## 1. Circumference
-Write a program `circumference.py` that gets the radius of a circle from user input, then computes and outputs the circumference. 
+Write a program `circumference.py` that gets the radius of a circle from user input, then computes and outputs the circumference. Use the formula $c = 2\pi r$
 
 ## 2. Exponent
-Write a program `exponent.py` that gets two numbers from user input, $a$ and $b$, then computes and outputs the result $a^b$.
+Write a program `exponent.py` that gets two numbers from user input, $a$ and $b$, then computes and outputs the result $a^b$
 
 ## 3. Radians
-Write a program `rads.py` that gets a number from user input in degrees, then converts and outputs the equivalent value in radian measure.
+Write a program `rads.py` that gets a number from user input in degrees, then converts and outputs the equivalent value in radian measure. Use the formula $radians = degrees \times \frac{\pi}{180}$
 
 ## 4. Fahrenheit to Celsius
 Write a program `celsius.py` that gets a temperature from user input in Fahrenheit, then outputs the equivalent value in Celsius. Use the conversion formula $c = \frac{5}{9}(f - 32)$, where $c$ is the temperature in Celsius, and $f$ is the equivalent in Fahrenheit.
