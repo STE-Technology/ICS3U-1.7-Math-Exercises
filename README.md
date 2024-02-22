@@ -29,7 +29,7 @@ Exponent Calculator
 Enter Base (a): 2
 Enter Power (b): 8
 
-Result: a^b is 256256
+Result: a^b is 256
 ```
 
 ## 3. Radians
